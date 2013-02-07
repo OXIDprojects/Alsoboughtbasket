@@ -1,0 +1,20 @@
+------------------------------------------
+OXID-Modul "Also Bought in Basket"
+------------------------------------------
+
+by Zunderweb
+
+http://www.zunderweb.de
+
+Frank Zunderer
+Waldstr. 22
+82205 Gilching
+Tel.: +49-8105-777250
+e-Mail: oxid@zunderer.de
+
+
+Requirements: OXID Version 4.7.x
+
+Installation:
+-------------
+1) Please copy the folder "alsobought_basket" to your modulefolder and activate in Backend
