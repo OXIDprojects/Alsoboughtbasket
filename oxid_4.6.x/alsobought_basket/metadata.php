@@ -10,6 +10,6 @@ $aModule = array(
         'basket' => 'alsobought_basket/controllers/alsobought_basket_basket',
     ),
     'blocks' => array(
-        array('template' => 'page/checkout/basket.tpl', 'block'=>'checkout_basket_main', 'file'=>'out/blocks/alsobought_basket_basket.tpl'),
+        array('template' => 'page/checkout/basket.tpl', 'block'=>'checkout_basket_main', 'file'=>'alsobought_basket_basket.tpl'),
     ),
 );
